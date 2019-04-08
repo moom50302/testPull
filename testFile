@@ -8,8 +8,13 @@ TestFile
 2.insert
 >>>>>>> 2
 3.
+<<<<<<< HEAD
 =======
 3.delete
 >>>>>>> 3
 4.
 5.master
+=======
+4.create
+5.
+>>>>>>> 4
