@@ -2,10 +2,14 @@ TestFile
 <<<<<<< HEAD
 1.update
 2.
+<<<<<<< HEAD
 =======
 1.
 2.insert
 >>>>>>> 2
 3.
+=======
+3.delete
+>>>>>>> 3
 4.
 5.master
